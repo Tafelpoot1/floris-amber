@@ -51,5 +51,5 @@ Dieetwensen/opmerkingen: ${message || "-"}`
   );
 
   // Vervang onderstaand e-mailadres door jullie eigen e-mailadres.
-  window.location.href = `mailto:florisenamber@example.com?subject=${subject}&body=${body}`;
+  window.location.href = `mailto:fbcdevree@gmail.com,ambervanderhorst@hotmail.com?subject=${subject}&body=${body}`;
 });
